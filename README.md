@@ -1,26 +1,22 @@
-# Leetcode Solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions 🚀
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
-## Hash Table
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
-## Sorting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
-<!---LeetCode Topics End-->
+This repository contains my **LeetCode Data Structures & Algorithms solutions**,  
+organized topic-wise and automatically pushed using **LeetHub v2**.
+
+## 🧠 Topics Covered
+- Arrays
+- Strings
+- Linked List
+- Stack & Queue
+- Trees
+- Graphs
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Dynamic Programming
+
+## ⚙️ Automation
+All submissions are auto-synced to GitHub using **LeetHub v2**.
+
+## 🎯 Goal
+To build strong problem-solving skills and prepare for **coding interviews & internships**.
